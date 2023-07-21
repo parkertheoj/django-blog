@@ -19,3 +19,4 @@ ALLOWED_HOSTS = ["*"]
 MIDDLEWARE = (
     "whitenoise.middleware.WhiteNoiseMiddleware",
     *MIDDLEWARE,
+)
