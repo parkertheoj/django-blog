@@ -41,7 +41,6 @@ INSTALLED_APPS = [
     'polling',
     'blogging',
     'django.contrib.sites',
-
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
